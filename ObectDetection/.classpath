@@ -96,5 +96,6 @@
 	<classpathentry kind="lib" path="/home/chandansr/Downloads/javacv-cppjars/opencv-2.4.8-windows-x86.jar"/>
 	<classpathentry kind="lib" path="/home/chandansr/Downloads/javacv-cppjars/opencv-2.4.8-windows-x86_64.jar"/>
 	<classpathentry kind="lib" path="/home/chandansr/opencv-2.4.9/build/bin/opencv-249.jar"/>
+	<classpathentry kind="lib" path="/home/chandansr/Downloads/processing-3.2.3/core/library/core.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
