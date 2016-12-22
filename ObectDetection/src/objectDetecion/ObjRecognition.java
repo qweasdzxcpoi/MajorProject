@@ -16,6 +16,7 @@ public class ObjRecognition extends Application
 	 * This application looks for any tennis ball in the camera video stream and
 	 * try to select them according to their HSV values. Found tennis balls are
 	 * framed with a blue line.
+	 * Before running this program create an empty application.css file 
 	 */
 	@Override
 	public void start(Stage primaryStage)
